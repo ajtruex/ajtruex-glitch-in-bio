@@ -3,12 +3,12 @@
   "metaDescription": "My meta description.",
   "name": "Glitch in Bio",
   "theme": "glitch",
-  "avatarImage": "https://cdn.glitch.com/560ed5ed-9d00-433a-9ff9-7750d79d13da%2FGlitch_TeamAvatar.png?v=1624643105812",
+  "avatarImage": "https://cdn.glitch.global/db17d85b-bfee-4e6d-9acd-3c64eeb26cc5/regboob-fixed.png?v=1669676680556",
   "links": [
     {
       "url": "https://glitch.new/links",
       "text": "Remix! Have your own Glitch-in-bio running in seconds.",
-      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
+      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
       "altText": "Glitch blue generative art"
     },
     {
@@ -19,39 +19,40 @@
     {
       "url": "https://www.glitch.com/",
       "text": "Built by and on Glitch, the easiest way to build the web.",
-      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
     }
   ],
   "social": {
-    "glitch": "https://glitch.com/",
-    "arena":"",
+    "glitch": "",
+    "arena": "",
     "bandcamp": "",
-    "cohost":"",
-    "dev": "https://dev.to/glitch",    
+    "cohost": "",
+    "dev": "https://dev.to/ajtruex",
     "facebook": "",
-    "github": "https://github.com/glitchdotcom",
+    "github": "https://github.com/ajtruex",
     "gitlab": "",
     "hashnode": "",
-    "instagram": "",
-    "keybase":"",
+    "instagram": "https://www.instagram.com/atruedev/",
+    "keybase": "",
     "kofi": "",
-    "letterboxd":"",
-    "linkedin": "https://www.linkedin.com/company/fog-creek-software",
+    "letterboxd": "",
+    "linkedin": "https://www.linkedin.com/in/ajtruex/",
     "mastodon": "",
     "medium": "",
     "patreon": "",
-    "pinboard":"",
+    "pinboard": "",
     "pinterest": "",
     "podcast": "",
     "soundcloud": "",
     "spotify": "",
     "stackoverflow": "",
     "substack": "",
-    "twitter": "https://twitter.com/glitch",
+    "twitter": "https://twitter.com/ATrueDev",
     "twitch": "",
     "tiktok": "",
     "tumblr": "",
-    "youtube": "https://www.youtube.com/c/GlitchDotCom",
-    "email": "support@glitch.com"
+    "website": "https://andrewtruex.xyz",
+    "youtube": "",
+    "email": ""
   }
 }
