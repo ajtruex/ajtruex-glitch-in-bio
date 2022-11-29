@@ -1,8 +1,9 @@
 import { resolve } from "path";
 import { defineConfig } from "vite";
+import dns from 'dns'
 // Slightly modified from https://github.com/alexlafroscia/vite-plugin-handlebars
 import handlebars from "@glitchdotcom/vite-plugin-handlebars";
-
+dns.setDefaultResultOrder('verbatim')
 // https://vitejs.dev/config/
 export default defineConfig(async ({ command, mode }) => {
   return {
@@ -24,10 +25,7 @@ export default defineConfig(async ({ command, mode }) => {
       exclude: ['./settings.json']
     },
     server: {
-      strictPort: true,
-      hmr: {
-        port: 443
-      }
+      https: true
     }
   };
 });
