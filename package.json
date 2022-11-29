@@ -16,7 +16,7 @@
     "@auto-it/released": "^10.37.6",
     "@glitchdotcom/vite-plugin-handlebars": "^1.6.2",
     "auto": "^10.37.6",
-    "vite": "^2.5.0"
+    "vite": "^2.9.13"
   },
   "browserslist": [
     ">0.2%",
